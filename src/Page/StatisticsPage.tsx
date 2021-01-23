@@ -1,9 +1,9 @@
 import React from 'react';
-import Statisitcs from '../Components/Statisitcs';
+import Statistics from '../Components/Statistics';
 
-const StatisitcsPage = () => {
-  return <Statisitcs />
+const StatisticsPage = () => {
+  return <Statistics />
 }
 
-export default StatisitcsPage;
+export default StatisticsPage;
 

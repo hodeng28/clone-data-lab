@@ -17,7 +17,7 @@ const Nav = () => {
             </NavLink>
           </li>
           <li>
-            <NavLink to="/Statisitcs">
+            <NavLink to="/Statistics">
               지역통계
             </NavLink>
           </li>
