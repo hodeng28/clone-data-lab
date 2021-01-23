@@ -1,7 +1,6 @@
 import React from "react";
 
-
-const Statisitcs = () => {
+const Statistics = () => {
   return (
     <>
       <h1>지역통계</h1>
@@ -11,4 +10,4 @@ const Statisitcs = () => {
 }
 
 
-export default Statisitcs;
+export default Statistics;
