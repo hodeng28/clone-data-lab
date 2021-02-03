@@ -1,8 +1,8 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
-import SearchPage from '../Page/SearchPage';
-import StatisticsPage from '../Page/StatisticsPage';
-import DataLabPage from '../Page/DataLabPage';
+import SearchPage from '../pages/SearchPage';
+import StatisticsPage from '../pages/StatisticsPage';
+import DataLabPage from '../pages/DataLabPage';
 
 
 

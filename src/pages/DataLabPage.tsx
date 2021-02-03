@@ -1,5 +1,5 @@
 import React from 'react';
-import DataLab from '../Components/DataLab';
+import DataLab from '../components/DataLab';
 
 const DataLabPage = () => {
   return <DataLab />
