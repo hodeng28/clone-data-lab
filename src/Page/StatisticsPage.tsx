@@ -1,5 +1,5 @@
 import React from 'react';
-import Statistics from '../Components/Statistics';
+import Statistics from '../components/Statistics';
 
 const StatisticsPage = () => {
   return <Statistics />
