@@ -23,7 +23,8 @@ view state 분할
     │       │   ├── CategoryComponent.jsx
     │       │   └── HomePageComponent.jsx
     │       └── HomePageContainer.js
-    ├── routes.js
+    ├── router
+    |   ├── routes.js
     ├── state
     │   ├── article
     │   │   ├── articleActions.js
@@ -37,4 +38,5 @@ view state 분할
     │       ├── userActions.js
     │       └── userReducer.js
     └── utils
-        └── authUtils.js    
+    │   └── authUtils.js    
+    ├── constants.js
