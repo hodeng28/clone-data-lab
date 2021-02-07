@@ -1,4 +1,4 @@
-import { ID_KEY, SECRET_KEY } from './../constants';
+import { ID_KEY, SECRET_KEY } from '../constants';
 import axios from "axios";
 export const getData = async () => {
     const request_body = {
