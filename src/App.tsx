@@ -1,6 +1,6 @@
 import React from 'react';
 import MainRouter from './router/MainRouter';
-import Nav from './components/Nav/Nav';
+import Nav from './components/nav/Nav';
 import styles from './App.module.css';
 import { Button } from 'antd';
 

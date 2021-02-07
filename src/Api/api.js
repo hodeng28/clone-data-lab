@@ -1,6 +1,5 @@
-import React from "react";
+import { ID_KEY, SECRET_KEY } from "./../constants";
 import axios from "axios";
-
 export const getData = async () => {
   const request_body = {
     startDate: "2017-01-01",
@@ -19,9 +18,6 @@ export const getData = async () => {
     device: "pc",
     gender: "f",
   };
-
-  const ID_KEY = "PBLIpouYn0jTczwJITLA";
-  const SECRET_KEY = "SxTNaVSodJ";
 
   try {
     const data = await axios({
