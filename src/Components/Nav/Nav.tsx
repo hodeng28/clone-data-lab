@@ -17,7 +17,7 @@ const Nav = () => {
           <NavLink to="/Statistics">지역통계</NavLink>
         </li>
         <li>
-          <NavLink to="/AgeTrend">연령별 트렌드-데이지</NavLink>
+          <NavLink to="/AgeTrend">월별 트렌드-데이지</NavLink>
         </li>
       </ul>
     </>
